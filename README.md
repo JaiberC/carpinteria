@@ -50,7 +50,7 @@ Genera `output.css` minificado. Asegúrate de commitear este archivo antes de ha
 
 ### Número de WhatsApp
 
-Busca todas las ocurrencias de `5491100000000` en `index.html` y reemplázalas con tu número en formato internacional (sin `+`, sin espacios):
+Busca todas las ocurrencias de `573100000000` en `index.html` y reemplázalas con tu número en formato internacional (sin `+`, sin espacios):
 
 ```
 https://wa.me/TU_NUMERO_AQUI
