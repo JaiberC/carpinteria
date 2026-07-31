@@ -1,0 +1,12 @@
+{
+  "name": "carpinteria-landing",
+  "version": "1.0.0",
+  "description": "Landing page para carpintería artesanal",
+  "scripts": {
+    "build": "tailwindcss -i src/input.css -o output.css --minify",
+    "dev": "tailwindcss -i src/input.css -o output.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}
